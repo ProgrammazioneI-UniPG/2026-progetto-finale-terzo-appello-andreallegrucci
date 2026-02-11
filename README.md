@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Andrea
 
-## Cognome: 
+## Cognome: Allegrucci
 
-## Matricola:
+## Matricola: 391206
 
 ## Commenti/modifiche al progetto:
 
